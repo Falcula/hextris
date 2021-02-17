@@ -187,7 +187,7 @@ function addKeyListeners() {
 }
 function inside (point, vs) {
 	// ray-casting algorithm based on
-	// http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html
+	// https://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html
 	
 	var x = point[0], y = point[1];
 	
